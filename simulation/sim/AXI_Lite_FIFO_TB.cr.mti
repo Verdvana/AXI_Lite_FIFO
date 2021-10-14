@@ -1,0 +1,46 @@
+C:/Project/HDL/AXI_Lite_FIFO/design/rtl/Async_FIFO.sv {1 {vlog -work work -vopt -sv -stats=none C:/Project/HDL/AXI_Lite_FIFO/design/rtl/Async_FIFO.sv
+QuestaSim-64 vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling module Async_FIFO
+
+Top level modules:
+	Async_FIFO
+
+} {} {}} C:/Project/HDL/AXI_Lite_FIFO/design/rtl/AXI_Lite_FIFO.sv {1 {vlog -work work -vopt -sv -stats=none C:/Project/HDL/AXI_Lite_FIFO/design/rtl/AXI_Lite_FIFO.sv
+QuestaSim-64 vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling module AXI_Lite_FIFO
+
+Top level modules:
+	AXI_Lite_FIFO
+
+} {} {}} C:/Project/HDL/AXI_Lite_FIFO/design/rtl/AXI_Lite_Package.sv {1 {vlog -work work -vopt -sv -stats=none C:/Project/HDL/AXI_Lite_FIFO/design/rtl/AXI_Lite_Package.sv
+QuestaSim-64 vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling package AXI_Lite_Package
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Project/HDL/AXI_Lite_FIFO/design/rtl/AXI_Lite_Interface.sv {1 {vlog -work work -vopt -sv -stats=none C:/Project/HDL/AXI_Lite_FIFO/design/rtl/AXI_Lite_Interface.sv
+QuestaSim-64 vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling interface AXI_Lite_Intf
+-- Compiling package AXI_Lite_Interface_sv_unit
+-- Importing package AXI_Lite_Package
+-- Compiling interface AXI_Lite_Intf
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Project/HDL/AXI_Lite_FIFO/simulation/tb/AXI_Slave.sv {1 {vlog -work work -vopt -sv -stats=none C:/Project/HDL/AXI_Lite_FIFO/simulation/tb/AXI_Slave.sv
+QuestaSim-64 vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling module AXI_Slave
+
+Top level modules:
+	AXI_Slave
+
+} {} {}} C:/Project/HDL/AXI_Lite_FIFO/simulation/tb/AXI_Master.sv {1 {vlog -work work -vopt -sv -stats=none C:/Project/HDL/AXI_Lite_FIFO/simulation/tb/AXI_Master.sv
+QuestaSim-64 vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling module AXI_Master
+
+Top level modules:
+	AXI_Master
+
+} {} {}}
